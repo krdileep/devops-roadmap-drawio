@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-16T22:53:21.640Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="PVHCt_XgT9EK5VpJXY_B" version="13.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-17T00:25:01.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36" etag="s77jQagGt_JrqGPAR3jU" version="13.2.4" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="FSSE">
-    <mxGraphModel dx="2465" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -602,7 +602,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tVG4cG8lu-QLfu8CzcOk" name="SRE">
-    <mxGraphModel dx="2488" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1970" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ISN70cFzWgCcmGe706ct-0" />
         <mxCell id="ISN70cFzWgCcmGe706ct-1" parent="ISN70cFzWgCcmGe706ct-0" />
@@ -1265,37 +1265,113 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mc_o4G0ADjFPUpcP-1BU" name="roadmap-exp">
-    <mxGraphModel dx="1120" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="mc_o4G0ADjFPUpcP-1BU" name="Roadmap-exp">
+    <mxGraphModel dx="1493" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="UQUTsNDI2WcYVbkkoCoA-0" />
         <mxCell id="UQUTsNDI2WcYVbkkoCoA-1" parent="UQUTsNDI2WcYVbkkoCoA-0" />
         <mxCell id="UQUTsNDI2WcYVbkkoCoA-2" value="&lt;font&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#10739e&quot;&gt;&lt;b&gt;Process&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Agile/Scrum/Kanban&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Source Repositories&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;GitOps - GitFlow W/F&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;CICD Toolchain, PM Radiator&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="251" y="240" width="149" height="98" as="geometry" />
+          <mxGeometry x="251" y="1360" width="149" height="98" as="geometry" />
         </mxCell>
         <mxCell id="UQUTsNDI2WcYVbkkoCoA-3" value="Agile &lt;br&gt;Scrum &lt;br&gt;&amp;amp; &lt;br&gt;Kanban&lt;br&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="400" y="240" width="120" height="100" as="geometry" />
+          <mxGeometry x="400" y="1360" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UQUTsNDI2WcYVbkkoCoA-4" value="Radiator &lt;br&gt;Board" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="520" y="240" width="120" height="100" as="geometry" />
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-4" value="Radiator &lt;br&gt;Board&lt;br&gt;&lt;br&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="520" y="1360" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UQUTsNDI2WcYVbkkoCoA-5" value="Source&lt;br&gt;Repository" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="640" y="240" width="120" height="100" as="geometry" />
+          <mxGeometry x="640" y="1360" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UQUTsNDI2WcYVbkkoCoA-7" value="CICD &lt;br&gt;Toolchain" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="760" y="240" width="120" height="100" as="geometry" />
+          <mxGeometry x="760" y="1360" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UQUTsNDI2WcYVbkkoCoA-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="400" y="340" width="120" height="160" as="geometry" />
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-21" value="Introduction to &lt;br&gt;Agile&lt;br&gt;Dev and Management&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by Ed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="400" y="1460" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UQUTsNDI2WcYVbkkoCoA-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="520" y="340" width="120" height="160" as="geometry" />
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-22" value="Offline &amp;amp; Online&lt;br&gt;Radiator&lt;br&gt;Board&lt;br&gt;Jira, Trello, Taiga&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by Ed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="520" y="1460" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UQUTsNDI2WcYVbkkoCoA-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="640" y="340" width="120" height="160" as="geometry" />
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-23" value="Public Repos&lt;br&gt;Github, Gitlab, BitBucket&lt;br&gt;On Prem Private Repos&lt;br&gt;Git Flow Workflow&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by FSSE team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="640" y="1460" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UQUTsNDI2WcYVbkkoCoA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
-          <mxGeometry x="760" y="340" width="120" height="160" as="geometry" />
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-24" value="Basic &lt;br&gt;Build-Test-Deploy Pipeline&lt;br&gt;Github + Bash&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by Ed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="760" y="1460" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-25" value="&lt;font&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;b&gt;Operating System&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Operating Systems&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;DOS, Linux Ops&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Bash Scripting&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Networking&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="370" y="1080" width="149" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-26" value="Operating&lt;br&gt;Systems" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="519" y="1080" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-27" value="DOS&lt;br&gt;Linux Ops" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="639" y="1080" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-28" value="Bash&lt;br&gt;Scripting" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="759" y="1080" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-29" value="Networking" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="879" y="1080" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-30" value="Introduction to&lt;br&gt;Operating Systems&lt;br&gt;Linux&lt;br&gt;&lt;br&gt;Material Prep + Execution&lt;br&gt;thru Caloy et al" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="519" y="1180" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-31" value="Disk Operating System&lt;br&gt;Linux OS Operations Basics&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by Caloy et al" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="639" y="1180" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-32" value="Basics on Linux/DOS batch Shell Scripting&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by Ed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="759" y="1180" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-33" value="Introduction to Networking&lt;br&gt;LAN&lt;br&gt;WAN&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;thru Caloy et al" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="879" y="1180" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="w_bI8V7foHtd8eVxPshY-0" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398" y="780" as="sourcePoint" />
+            <mxPoint x="999" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w_bI8V7foHtd8eVxPshY-1" value="10 Weeks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w_bI8V7foHtd8eVxPshY-0">
+          <mxGeometry x="-0.0458" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-0" value="&lt;font&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;b&gt;Infrastructure&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;PC, Desktop, Laptop&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Servers and Data Center&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Virtual Machines&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Enablement&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="251" y="800" width="149" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-1" value="Desktops&lt;br&gt;Laptops&lt;br&gt;Enabled" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="400" y="800" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-2" value="Servers&lt;br&gt;&amp;amp; Data &lt;br&gt;Center&lt;br&gt;Enabled" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="520" y="800" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-3" value="Physical&lt;br&gt;Peripheral&lt;br&gt;Architectures" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="640" y="800" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-4" value="Virtualization&lt;br&gt;Virtual&lt;br&gt;Machines" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="760" y="800" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-5" value="Team enable checklist&lt;br&gt;&lt;br&gt;H/W Requirement&lt;br&gt;16-24-32 Gb Memory&lt;br&gt;4 Core - 6 Core&lt;br&gt;thru Mngt" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="400" y="900" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-6" value="vCenter 7&lt;br&gt;up and configured&lt;br&gt;&lt;br&gt;of 6.7 with NSX-T&lt;br&gt;at the min&lt;br&gt;thru Caloy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="520" y="900" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-7" value="Enable Storage&lt;br&gt;10 Terabytes&lt;br&gt;&lt;br&gt;Intro to Types&lt;br&gt;thru Mike Ibanez" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="640" y="900" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="k3OJ7zMFBXc25ldI9w83-8" value="VM creation&lt;br&gt;OS Installation&lt;br&gt;Cluster setup &amp;amp; Networking&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;thru Caloy/Say et al" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="760" y="900" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8yN2jCHAm6wvj9iTtzjw-0" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398" y="790" as="sourcePoint" />
+            <mxPoint x="519" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8yN2jCHAm6wvj9iTtzjw-1" value="2 Weeks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8yN2jCHAm6wvj9iTtzjw-0">
+          <mxGeometry x="-0.0458" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
