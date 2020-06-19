@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-18T07:27:29.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="XG5cXUfb9yBgBWA1RCqx" version="13.2.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-19T01:39:14.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="W8XTfWHrWc2RpWmpe-oC" version="13.2.6" type="github" pages="7">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="FSSE">
-    <mxGraphModel dx="2013" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1308,10 +1308,10 @@
         <mxCell id="UQUTsNDI2WcYVbkkoCoA-22" value="Offline &amp;amp; Online&lt;br&gt;Radiator&lt;br&gt;Board&lt;br&gt;Jira, Trello, Taiga&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by Ed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="UQUTsNDI2WcYVbkkoCoA-1" vertex="1">
           <mxGeometry x="520" y="1460" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UQUTsNDI2WcYVbkkoCoA-23" value="Public Repos&lt;br&gt;Github, Gitlab, BitBucket&lt;br&gt;On Prem Private Repos&lt;br&gt;Git Flow Workflow&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by FSSE team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="UQUTsNDI2WcYVbkkoCoA-1" vertex="1">
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-23" value="Public Repos&lt;br&gt;Github, Gitlab, BitBucket&lt;br&gt;On Prem Private Repos (Gogs, Gitea)&lt;br&gt;Git Flow Workflow&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by FSSE team" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="UQUTsNDI2WcYVbkkoCoA-1" vertex="1">
           <mxGeometry x="640" y="1460" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="UQUTsNDI2WcYVbkkoCoA-24" value="VS Code IDE + Basic &lt;br&gt;Build-Test-Deploy Pipeline&lt;br&gt;Github + Bash&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by Ed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="UQUTsNDI2WcYVbkkoCoA-1" vertex="1">
+        <mxCell id="UQUTsNDI2WcYVbkkoCoA-24" value="VS Code IDE + Basic &lt;br&gt;Build-Test-Deploy Pipeline&lt;br&gt;Github Actions + Bash&lt;br&gt;&lt;br&gt;Material Prep &amp;amp; Execution&lt;br&gt;by Ed" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" parent="UQUTsNDI2WcYVbkkoCoA-1" vertex="1">
           <mxGeometry x="760" y="1460" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="UQUTsNDI2WcYVbkkoCoA-25" value="&lt;font&gt;&lt;font color=&quot;#10739e&quot;&gt;&lt;b&gt;Operating System&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Operating Systems&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;DOS, Linux Ops&lt;/span&gt;&lt;br style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 10px ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;Bash Scripting&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Networking&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;arcSize=12;verticalAlign=top;whiteSpace=wrap;html=1;fontSize=12;" parent="UQUTsNDI2WcYVbkkoCoA-1" vertex="1">
@@ -1647,6 +1647,9 @@
         </mxCell>
         <mxCell id="TB7UIev807s2oTWrqwEM-1" value="Kubernetes Ops&lt;br&gt;c/o Ed&lt;br&gt;or external party" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
           <mxGeometry x="1789.5" y="1180" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SXp7aU5jpQ7xYH79dhUg-0" value="July 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="UQUTsNDI2WcYVbkkoCoA-1">
+          <mxGeometry x="380" y="750" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
