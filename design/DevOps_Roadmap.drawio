@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-21T05:08:14.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="kcofu93hOjYKSm_c-Dqj" version="13.3.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-06-22T00:16:52.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="R3CX0I04PeP3eSY3bYcm" version="13.3.0" type="github" pages="8">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="FSSE">
     <mxGraphModel dx="2013" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2367,19 +2367,19 @@
         <mxCell id="wRvuCo8TbV1aNYsq3ylr-5" value="&lt;br&gt;c/o Ed&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
           <mxGeometry x="388" y="3214" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="wRvuCo8TbV1aNYsq3ylr-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
+        <mxCell id="wRvuCo8TbV1aNYsq3ylr-6" value="Do &lt;br&gt;Architectural&lt;br&gt;Designs&lt;br&gt;Across&lt;br&gt;Layers" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
           <mxGeometry x="390" y="3450" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wRvuCo8TbV1aNYsq3ylr-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
+        <mxCell id="wRvuCo8TbV1aNYsq3ylr-7" value="Can wear multiple hats" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
           <mxGeometry x="390" y="3550" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="wRvuCo8TbV1aNYsq3ylr-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
+        <mxCell id="wRvuCo8TbV1aNYsq3ylr-8" value="Advocates&lt;br&gt;DevOps&lt;br&gt;Discipline&lt;br&gt;End-to-End&lt;br&gt;Stages" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
           <mxGeometry x="389" y="3731" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wRvuCo8TbV1aNYsq3ylr-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
           <mxGeometry x="389" y="3831" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="wRvuCo8TbV1aNYsq3ylr-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
+        <mxCell id="wRvuCo8TbV1aNYsq3ylr-10" value="Practice&lt;br&gt;or&lt;br&gt;Certifications" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
           <mxGeometry x="389" y="4011" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wRvuCo8TbV1aNYsq3ylr-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DAE8FC;" vertex="1" parent="qD8IZwCdTHivkWCqcXAm-1">
